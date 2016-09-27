@@ -1,0 +1,10 @@
+# Excluir binarios
+App1/bin/Debug
+App1/bin/Release
+App1/obj
+
+# Excluir preferencias de usuario
+*.suo
+*.dll
+*.exe
+
